@@ -24,3 +24,5 @@ The documentation says:
 > _Source: [GitHub Documentation]_
 
 [GitHub Documentation]: https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#jobsjob_idstepsuses
+
+So I have built: https://github.com/hendrikmaus/actions-digest
