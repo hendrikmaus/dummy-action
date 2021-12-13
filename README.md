@@ -26,3 +26,5 @@ The documentation says:
 [GitHub Documentation]: https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#jobsjob_idstepsuses
 
 So I have built: https://github.com/hendrikmaus/actions-digest
+
+_This repository serves as a static resource to build deterministic tests aginst. I.e. it **must not change**. If it doesn, adjust the tests in `actions-digest` as well._
